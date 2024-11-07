@@ -6,7 +6,7 @@ Created on Thu Sep 24 13:01:17 2020
 
 import pandas as pd
 import streamlit as st 
-from sklearn.linear_model import LogisticRegression
+from scikit-learn.linear_model import LogisticRegression
 
 st.title('Model Deployment: Logistic Regression')
 
